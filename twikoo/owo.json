@@ -1,4 +1,169 @@
 {
+  "Azukisan": {
+    "type": "image",
+    "container": [
+      {
+        "text": "Azukisan-1",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/001.png'>"
+      },
+      {
+        "text": "Azukisan-2",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/002.png'>"
+      },
+      {
+        "text": "Azukisan-3",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/003.png'>"
+      },
+      {
+        "text": "Azukisan-4",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/004.png'>"
+      },
+      {
+        "text": "Azukisan-5",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/005.png'>"
+      },
+      {
+        "text": "Azukisan-6",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/006.png'>"
+      },
+      {
+        "text": "Azukisan-7",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/007.png'>"
+      },
+      {
+        "text": "Azukisan-8",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/008.png'>"
+      },
+      {
+        "text": "Azukisan-9",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/009.png'>"
+      },
+      {
+        "text": "Azukisan-10",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/010.png'>"
+      },
+      {
+        "text": "Azukisan-11",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/011.png'>"
+      },
+      {
+        "text": "Azukisan-12",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/012.png'>"
+      },
+      {
+        "text": "Azukisan-13",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/013.png'>"
+      },
+      {
+        "text": "Azukisan-14",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/014.png'>"
+      },
+      {
+        "text": "Azukisan-15",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/015.png'>"
+      },
+      {
+        "text": "Azukisan-16",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/016.png'>"
+      },
+      {
+        "text": "Azukisan-17",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/017.png'>"
+      },
+      {
+        "text": "Azukisan-18",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/018.png'>"
+      },
+      {
+        "text": "Azukisan-19",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/019.png'>"
+      },
+      {
+        "text": "Azukisan-20",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/020.png'>"
+      },
+      {
+        "text": "Azukisan-21",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/021.png'>"
+      },
+      {
+        "text": "Azukisan-22",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/022.png'>"
+      },
+      {
+        "text": "Azukisan-23",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/023.png'>"
+      },
+      {
+        "text": "Azukisan-24",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/024.png'>"
+      },
+      {
+        "text": "Azukisan-25",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/025.png'>"
+      },
+      {
+        "text": "Azukisan-26",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/026.png'>"
+      },
+      {
+        "text": "Azukisan-27",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/027.png'>"
+      },
+      {
+        "text": "Azukisan-28",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/028.png'>"
+      },
+      {
+        "text": "Azukisan-29",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/029.png'>"
+      },
+      {
+        "text": "Azukisan-30",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/030.png'>"
+      },
+      {
+        "text": "Azukisan-31",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/031.png'>"
+      },
+      {
+        "text": "Azukisan-32",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/032.png'>"
+      },
+      {
+        "text": "Azukisan-33",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/033.png'>"
+      },
+      {
+        "text": "Azukisan-34",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/034.png'>"
+      },
+      {
+        "text": "Azukisan-35",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/035.png'>"
+      },
+      {
+        "text": "Azukisan-36",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/036.png'>"
+      },
+      {
+        "text": "Azukisan-37",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/037.png'>"
+      },
+      {
+        "text": "Azukisan-38",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/038.png'>"
+      },
+      {
+        "text": "Azukisan-39",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/039.png'>"
+      },
+      {
+        "text": "Azukisan-40",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Azukisan/040.png'>"
+      }
+    ]
+  },
   "Blobhaj": {
     "type": "image",
     "container": [
@@ -27,6 +192,14 @@
         "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_heart.png'>"
       },
       {
+        "text": "Blobhaj_heart_rainbow",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_heart_rainbow.png'>"
+      },
+      {
+        "text": "Blobhaj_heart_trans",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_heart_trans.png'>"
+      },
+      {
         "text": "Blobhaj_blanket",
         "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_blanket.png'>"
       },
@@ -49,6 +222,34 @@
       {
         "text": "Blobhaj_ghost",
         "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_ghost.png'>"
+      },
+      {
+        "text": "Blobhaj_ghost_alive",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_ghost_alive.png'>"
+      },
+      {
+        "text": "Blobhaj_ghost_boo",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_ghost_boo.png'>"
+      },
+      {
+        "text": "Blobhaj_ghost_surprise",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_ghost_surprise.png'>"
+      },
+      {
+        "text": "Blobhaj_peek",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_peek.png'>"
+      },
+      {
+        "text": "Blobhaj_pleed2",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_pleed2.png'>"
+      },
+      {
+        "text": "Blobhaj_witch",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_witch.png'>"
+      },
+      {
+        "text": "Blobhaj_witch_broom",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/MicroSic/twikoo-magic/image/Blobhaj/blobhaj_witch_broom.png'>"
       }
     ]
   },
